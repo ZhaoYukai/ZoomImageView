@@ -85,7 +85,6 @@ class AutoScaleRunnable implements Runnable<br>
 getParent().requestDisallowInterceptTouchEvent(true);<br>
 这样图片只有恢复到小于等于屏幕大小时，才能切换下一张图片。<br>
 <br>
-
-
-
-
+<br>
+![image](https://github.com/ZhaoYukai/ZoomImageView/blob/master/%E7%A4%BA%E4%BE%8B%E5%8A%A8%E7%94%BB/jdfw.gif)
+<br>
